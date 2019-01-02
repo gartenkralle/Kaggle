@@ -1,7 +1,0 @@
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe.config
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.exe
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Debug\ConsoleApp6.pdb
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\2opt.csprojAssemblyReference.cache
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\2opt.csproj.CoreCompileInputs.cache
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.exe
-C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Debug\ConsoleApp6.pdb

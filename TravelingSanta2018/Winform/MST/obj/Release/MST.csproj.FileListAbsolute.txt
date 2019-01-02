@@ -1,7 +1,0 @@
-C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\MST.exe.config
-C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\MST.exe
-C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\MST.pdb
-C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\MST.csprojAssemblyReference.cache
-C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\MST.csproj.CoreCompileInputs.cache
-C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\MST.exe
-C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\MST.pdb
