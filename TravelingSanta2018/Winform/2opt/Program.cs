@@ -5,7 +5,7 @@ using System.IO;
 
 namespace TravelingSanta2018
 {
-    class Program
+    class _2opt
     {
         static void Main(string[] args)
         {
