@@ -1,0 +1,7 @@
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Debug\MST.pdb
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Debug\ElasticConstruction.csproj.CoreCompileInputs.cache
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Debug\MST.pdb
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Debug\MST.dll.config
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Debug\MST.dll
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Debug\MST.dll
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Debug\ElasticConstruction.csprojAssemblyReference.cache

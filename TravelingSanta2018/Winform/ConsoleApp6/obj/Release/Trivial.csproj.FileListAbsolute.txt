@@ -1,0 +1,7 @@
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\cities.csv
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\ConsoleApp6.exe.config
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\ConsoleApp6.exe
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\bin\Release\ConsoleApp6.pdb
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\Trivial.csproj.CoreCompileInputs.cache
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.exe
+C:\Users\cleme\source\repos\ConsoleApp6\ConsoleApp6\obj\Release\ConsoleApp6.pdb

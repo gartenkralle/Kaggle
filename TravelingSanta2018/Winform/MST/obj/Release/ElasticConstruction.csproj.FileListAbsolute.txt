@@ -1,0 +1,8 @@
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\cities.csv
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\MST.exe.config
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\MST.exe
+C:\Users\cleme\source\repos\ConsoleApp6\MST\bin\Release\MST.pdb
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\ElasticConstruction.csprojAssemblyReference.cache
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\ElasticConstruction.csproj.CoreCompileInputs.cache
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\MST.exe
+C:\Users\cleme\source\repos\ConsoleApp6\MST\obj\Release\MST.pdb
